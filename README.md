@@ -24,9 +24,9 @@ Step1: Run "npm install mysql2 inquirer cli-logo " and Step2: Run "node index.js
  Robert McKenney, Abdul Amoud and Igor Calvacante
 
 ## Test
-Test01 : <img src="https://github.com/savabel/EmployeeTracker/blob/master/tests/ScreenCapture01.JPG" alt="" width="500" height="600">
-Test02 : <img src="https://github.com/savabel/EmployeeTracker/blob/master/tests/ScreenCapture01.JPG" alt="" width="500" height="600">
-Test03 : <img src="https://github.com/savabel/EmployeeTracker/blob/master/tests/ScreenCapture01.JPG" alt="" width="500" height="600">
+Test01 : <img src="https://github.com/savabel/EmployeeTracker/blob/master/tests/ScreenCapture01.JPG" alt="" width="500" height="">
+Test02 : <img src="https://github.com/savabel/EmployeeTracker/blob/master/tests/ScreenCapture02.JPG" alt="" width="500" height="">
+Test03 : <img src="https://github.com/savabel/EmployeeTracker/blob/master/tests/ScreenCapture03.JPG" alt="" width="500" height="">
 
 
 ## Questions
